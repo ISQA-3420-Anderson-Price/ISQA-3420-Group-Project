@@ -14,4 +14,4 @@ Repository for Managing in a Digital World Group Project
 
 [Sample Policy Document](https://github.com/ISQA-3420-Anderson-Price/ISQA-3420-Group-Project/blob/master/SamplePolicyDocument.md)
 
-[Use Cases](https://github.com/ISQA-3420-Anderson-Price/ISQA-3420-Group-Project/blob/master/UseCases.md)
+[Use Cases](https://github.com/ISQA-3420-Anderson-Price/ISQA-3420-Group-Project/blob/master/Use-Cases)
