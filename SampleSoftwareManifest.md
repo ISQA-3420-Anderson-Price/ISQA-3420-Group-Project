@@ -1,12 +1,14 @@
 # Document
- - Document License: 
+ - Document License: CC-BY-SA 4.0
  - Author: 
  - Date Created: 
-
+ - Comments:
 
 #Package
  - Name:
- - SHA1:
+ - Version:
+ - Checksum:
  - CPE:
  - Licenses:
  - Vulnerabilities:
+ - Comments: 
