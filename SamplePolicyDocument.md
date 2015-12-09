@@ -3,7 +3,7 @@
  - Comments: Sample Policy
  - Author: Kent Anderson
  - Created: 12/8/2015
- - Context:Production Source
+ - Context: Production Source
 
 #Licenses
  - Copyleft
