@@ -7,13 +7,13 @@
 ######4.National Vulnerability Database- Government repository of standards-based vulnerability information. The NVD is a product of the National Institute of Stands and Technology (NIST) Computer Security Division and is used by the U.S.
 #### Data Stores:
 ######1.SPDX DB- This is the database that is going to store information about files (remember that files -> packages -> projects). This information is going to have to be stored in a standardized way.
-######2. NIST CPE Information-
+######2. NIST CPE Information- CPE is a structured naming scheme for information technology systems, software, and packages.
 #### Processes:
-######1.	Manage Code Information-
+######1.	Manage Code Information- The process of handling changes to computer code. Management of code modules or collections of lines of code in order to support changes to particular goals such as maintenance to a system.
 ######2.	Manage Project Information- Received provided project information and assemble and return discovered software license, copyright, vulnerability, and weakness information. 
-######3.	Manage CPE Information-
-######4.	License Scanner-
-######5.	Version Control/Build System-
+######3.	Manage CPE Information- Ability to manage applications, operating systems, and hardware devices by describing and identifying classes. 
+######4.	License Scanner-The process of receiving a file/package and responding with specific license information.
+######5.	Version Control/Build System-The process of receiving a file/package developing this file and submitting it to be Managed code information.
 #### Data Flows:
 ######1.	Source Query- Internally initiated request for external source
 ######2.	File – Source file 
