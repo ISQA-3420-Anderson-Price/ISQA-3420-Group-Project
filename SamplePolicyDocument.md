@@ -1,12 +1,9 @@
-**Policy Name:**
-
-**Comments:** 
-
-**Author:**
-
-**Created:** 
-
-**Context:** Production Source
+#Policy
+ - Name: Policy 1
+ - Comments: Sample Policy
+ - Author: Kent Anderson
+ - Created: 12/8/2015
+ - Context:Production Source
 
 #Licenses
  - Copyleft
